@@ -26,6 +26,6 @@ if (obj.content.contentCardList != undefined) {
 }
 body = JSON.stringify(obj);
 
-//console.log(body);
+console.log(body);
 
 $done(body);
